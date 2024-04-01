@@ -1,9 +1,6 @@
 ![Preview](./images/girl_hair_glow_1021435_2560x1080.jpg)
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
 
-<div style="text-align: center; font-size: 30px; font-family: 'Nato Sans JP';">
+<div style="text-align: center; font-size: 30px; font-family: 'Noto Sans JP';">
   <h1>Hi! I'm リサ</h1>
 </div>
 
@@ -17,13 +14,12 @@
   </div>
 </div>
 
-
 # About Me
 
 <div style="display: flex;">
   <img style="width: 45%; margin-right: 10px;" src="./images/anime-girls-pfp-smoking-olkgdjwrjkzves69.jpg" align="left">
   <div>
-    <p style="font-size: 20px;">
+    <p>
       &nbsp;&#10022; You can Call me Sel 
       <br>
       &nbsp;&#10022; Currently pursuing an applied bachelor's degree in Computer Science and Chemistry.
@@ -34,11 +30,11 @@
       <br>
       &nbsp;&#10022; My current goals are To become Fullstack Web Dev
     </p>
+    <a href="https://discord.com/users/843457209064751104">
+      <img style="width: 350px;" src="https://lanyard.kyrie25.me/api/843457209064751104?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" alt="Discord Presence">
+    </a>
   </div>
 </div>
-
-
-
 
 
 
