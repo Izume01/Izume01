@@ -13,7 +13,7 @@
     <p style="text-align: center; font-family: 'Noto Sans JP', sans-serif;">Frontend Developer and Gamer</p>
   </div>
   <div style="flex: 1;">
-  <img style="width:80%" src="./images/pfp.jpg" alt="Anime pfp">
+  <img style="width:60%" src="./images/pfp.jpg" alt="Anime pfp">
 </div>
 </div>
 
@@ -25,7 +25,7 @@
     <p style="font-size: 20px; text-align: left;">
       &nbsp;&#10022; You can Call me Sel 
       <br>
-      &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **Computer Science and Chemistry**.
+      &nbsp;&#10022; Currently pursuing an applied bachelor's degree in Computer Science and Chemistry.
       <br>
       &nbsp;&#10022; Love Talking about Frontend Dev And Website UI
       <br>
