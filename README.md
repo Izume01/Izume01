@@ -1,28 +1,29 @@
-![Preview](./images/bg.png)
+![Preview](./images/girl_hair_glow_1021435_2560x1080.jpg)
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
 
-<div style="text-align: center; font-size:30px; font-family: 'Nato Sans JP';">
+<div style="text-align: center; font-size: 30px; font-family: 'Nato Sans JP';">
   <h1>Hi! I'm リサ</h1>
 </div>
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1;">
-    <p style="text-align: center; font-size : 30px ; font-family: 'Noto Sans JP', sans-serif;">I Live in France 🇫🇷</p>
+    <p style="text-align: center; font-size: 30px; font-family: 'Noto Sans JP', sans-serif;">I Live in France 🇫🇷</p>
     <p style="text-align: center; font-family: 'Noto Sans JP', sans-serif;">Frontend Developer and Gamer</p>
   </div>
   <div style="flex: 1;">
-  <img style="width:60%" src="./images/pfp.jpg" alt="Anime pfp">
+    <img style="width: 60%;" src="./images/pfp.jpg" alt="Anime pfp">
+  </div>
 </div>
-</div>
+
 
 # About Me
 
-<div>
+<div style="display: flex;">
+  <img style="width: 45%; margin-right: 10px;" src="./images/anime-girls-pfp-smoking-olkgdjwrjkzves69.jpg" align="left">
   <div>
-    <img style="width:25em; margin-right:10px" src="./images/anime-girls-pfp-smoking-olkgdjwrjkzves69.jpg" align="left">
-    <p style="font-size: 20px; text-align: left;">
+    <p style="font-size: 20px;">
       &nbsp;&#10022; You can Call me Sel 
       <br>
       &nbsp;&#10022; Currently pursuing an applied bachelor's degree in Computer Science and Chemistry.
@@ -35,6 +36,7 @@
     </p>
   </div>
 </div>
+
 
 
 
