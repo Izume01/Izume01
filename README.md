@@ -5,14 +5,15 @@
 </div>
 
 <div style="display: flex; justify-content: center;">
-  <div style="flex: 1;">
-    <p style="text-align: center; font-size: 30px; font-family: 'Noto Sans JP', sans-serif;">I Live in France 🇫🇷</p>
-    <p style="text-align: center; font-family: 'Noto Sans JP', sans-serif;">Frontend Developer and Gamer</p>
+  <div style="flex: 1; text-align: center;">
+    <p style="font-size: 30px; font-family: 'Noto Sans JP', sans-serif;">I Live in France 🇫🇷</p>
+    <p style="font-family: 'Noto Sans JP', sans-serif;">Frontend Developer and Gamer</p>
   </div>
   <div style="flex: 1;">
     <img style="width: 60%;" src="./images/pfp.jpg" alt="Anime pfp">
   </div>
 </div>
+
 
 # About Me
 
