@@ -5,7 +5,7 @@ You can call me Sel — your friendly, caffeine-fueled code enthusiast. 🚀
 
 ---
 
-### 🌈 About Me  
+### 😎 About Me  
 
 - **🔭 Currently Pursuing**:  
   A sweet combo of Computer Science and Chemistry. Because, why not mix science with syntax? 🧪💻  
