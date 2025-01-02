@@ -1,22 +1,27 @@
-# 🌟 Greetings, Internet Traveler!  
+# Developer | Innovator | Problem Solver
 
-Welcome to my digital playground where ideas transform into impactful projects.  
-I'm a passionate **developer** blending creativity with functionality to craft elegant solutions. 💻✨  
-
----
-
-## 🌍 Who Am I?  
-
-- 🎓 **Background:** Computer Science Enthusiast  
-- 🚀 **Focus Areas:** Full-Stack Development & Creative Problem-Solving  
-- 💡 **Interests:** Exploring new technologies, building meaningful applications, and mentoring others.  
-- 🎯 **Current Goal:** Elevate user experiences with intuitive designs and scalable backend systems.  
+I’m a **Full-Stack Developer** with a sharp focus on building practical, efficient, and scalable solutions. I take pride in creating clean, robust code that powers functional, high-performance applications.
 
 ---
 
-## 🛠️ My Toolkit  
+## What I Do
 
-Here’s my arsenal of technologies:  
+- 🎯 **Full-Stack Development** – From the front-end to the back-end, I deliver end-to-end solutions that work seamlessly.
+- 🧠 **Problem-Solving** – I thrive on tackling complex challenges with clean, efficient solutions.
+- 💡 **Tech Enthusiast** – I’m always digging into new technologies to stay ahead of the curve.
+
+---
+
+## Tech Stack
+
+I build with the best. Here's my toolkit:
+
+- **Frontend:**
+  - HTML5, CSS3, JavaScript (ES6+)
+- **Backend:**
+  - Node.js, Express.js, MongoDB
+- **Version Control:**
+  - Git, GitHub
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -31,19 +36,25 @@ Here’s my arsenal of technologies:
 
 ---
 
-## 📊 GitHub in Action  
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=izume01&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izume01&layout=compact&theme=tokyonight)  
 
 ---
 
-## ✨ Fun Facts  
+## Random Facts
 
-- 🧠 I love **learning** and experimenting with cutting-edge tech.  
-- ☕ Coffee is my debugging companion.  
-- 🌱 Always curious, always evolving.  
+- 🧠 I'm obsessed with **learning**, experimenting, and leveling up my skills.  
+- ☕ Coffee isn’t a choice; it’s a necessity.  
+- 🌱 I believe in progress, not perfection—always moving forward.
 
 ---
 
-**Let’s innovate together — one line of code at a time! 🚀**  
+## Let's Build Something Great
+
+If you need a developer who can turn ideas into real, functional projects, let's talk. Hit me up and let’s make something that stands out.
+
+---
+
+**Stay Code-Driven.**
