@@ -12,7 +12,6 @@ Building modern web applications using cutting-edge technologies.
 - **Validation:** Zod, Yup
 - **Dev Tools & Infrastructure:** Git, GitHub, VS Code, Postman, MongoDB Atlas
 - **Authentication & Security:** JWT, OAuth2.0, Email Verification
-- **Optimization:** Lazy Loading, Code Splitting, Memoization, Chrome DevTools
 - **Other Tools:** Appwrite, Figma, Vercel
 
 ---
